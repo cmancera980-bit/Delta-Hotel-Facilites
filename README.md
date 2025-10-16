@@ -1,14 +1,10 @@
-Perfecto 👌 Aquí tienes un **README profesional y claro** para tu página web multilingüe del hotel **Delta Hotels by Marriott City Center Doha**. Puedes guardarlo como `README.md` en el mismo directorio del proyecto:
-
----
-
-# 🌍 Delta Hotels by Marriott City Center Doha — Multilingual Info Page
+🌍 Delta Hotels by Marriott City Center Doha — Multilingual Info Page
 
 Este proyecto es una página web informativa e interactiva para los huéspedes del **Delta Hotels by Marriott City Center Doha**, diseñada para mostrar los servicios e instalaciones del hotel en **tres idiomas**: **inglés**, **ruso** y **árabe**.
 
 ---
 
-## 🏨 Descripción General
+🏨 Descripción General
 
 La web permite a los huéspedes seleccionar su idioma preferido y explorar las facilidades del hotel según el piso en el que se encuentren. Cada sección muestra información detallada, como horarios, servicios y accesos especiales.
 
@@ -16,7 +12,7 @@ El diseño es **minimalista, funcional y completamente adaptable** a distintos d
 
 ---
 
-## ✨ Características Principales
+✨ Características Principales
 
 * 🌐 **Multilingüe:** Inglés, Ruso y Árabe.
 * 🧭 **Navegación sencilla:** Selección de idioma → Menú por pisos → Detalle del servicio.
@@ -37,7 +33,7 @@ El diseño es **minimalista, funcional y completamente adaptable** a distintos d
 
 ---
 
-## 🧱 Estructura del Proyecto
+🧱 Estructura del Proyecto
 
 ```
 .
@@ -48,7 +44,7 @@ El diseño es **minimalista, funcional y completamente adaptable** a distintos d
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+⚙️ Tecnologías Utilizadas
 
 * **HTML5** – estructura semántica del sitio
 * **CSS3** – estilos personalizados (colores, botones, tipografía)
@@ -57,7 +53,7 @@ El diseño es **minimalista, funcional y completamente adaptable** a distintos d
 
 ---
 
-## 🚀 Cómo Usar
+🚀 Cómo Usar
 
 1. **Descarga o clona** el proyecto:
 
